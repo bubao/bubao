@@ -2,17 +2,17 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Arch-Linux-informational?logo=archlinux&style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DBMS-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Arch-Linux](https://img.shields.io/badge/Arch-Linux-informational?logo=archlinux&style=flat&logoColor=white&color=2bbc8a)
+![Editor-VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Code-Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![Code-JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Code-Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Code-Golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![Shell-Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![DBMS-Mysql](https://img.shields.io/badge/DBMS-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![DBMS-Sqlite](https://img.shields.io/badge/DBMS-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![Tools-Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bubao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
