@@ -13,7 +13,7 @@
 
 ### Languages and Tools
 
-![skillicons](https://skillicons.dev/icons?perline=15&i=apple,arch,bash,bun,c,docker,express,github,git,go,grafana,gulp,js,jenkins,jquery,linux,md,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,pnpm,prisma,pug,py,raspberrypi,react,redis,regex,sqlite,ts,ubuntu,vscode,webpack,windows,yarn)
+![skillicons](https://skillicons.dev/icons?perline=15&i=anaconda,apple,arch,babel,bash,bun,c,babel,docker,express,github,git,go,grafana,gulp,html,js,jenkins,jquery,linux,md,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,pnpm,prisma,pug,py,raspberrypi,react,redis,regex,sqlite,sequelize,ts,ubuntu,vite,vscode,webpack,windows,yarn)
 
 ## Github stats
 
